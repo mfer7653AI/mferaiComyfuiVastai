@@ -25,6 +25,7 @@ NODES=(
     "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite"
     "https://github.com/kijai/ComfyUI-KJNodes"
     "https://github.com/kijai/ComfyUI-CogVideoXWrapper"
+    "https://github.com/TinyTerra/ComfyUI_tinyterraNodes"
 )
 
 CHECKPOINT_MODELS=(
